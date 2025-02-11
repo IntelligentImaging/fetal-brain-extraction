@@ -6,13 +6,11 @@ fetal brain extraction in MRI scans. Our method, built on a vast dataset
 of 72,000 images, excels in extracting fetal brain structures from diverse
 MRI sequences and scanning conditions. It's fast, accurate, and adaptable. 
 
-![Example Segmentation Result](./src/figures/examples.png)
-*Sample MRI segmentation result using our methods.*
-
-## Example Video
+## Sample MRI segmentation result using our methods.
 
 [![Watch the video](./src/figures/combined_image_stacks.gif)](./src/figures/combined_image_stacks.gif)
 
+![Example Segmentation Result](./src/figures/examples.png)
 
 
 ## Table of Contents
