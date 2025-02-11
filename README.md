@@ -11,7 +11,7 @@ MRI sequences and scanning conditions. It's fast, accurate, and adaptable.
 
 ## Example Video
 
-[Watch the video](./src/figures/combined_image_stacks.gif)
+[![Watch the video](./src/figures/combined_image_stacks.gif)](./src/figures/combined_image_stacks.gif)
 
 Click on the image above to watch the video.
 
